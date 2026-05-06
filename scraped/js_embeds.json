@@ -1,0 +1,242 @@
+{
+  "scanned_urls": [
+    "https://www.mindinlaw.com/",
+    "https://www.mindinlaw.com/our-attorneys-1",
+    "https://www.mindinlaw.com/contact",
+    "https://www.mindinlaw.com/testimonials",
+    "https://www.mindinlaw.com/blog-1",
+    "https://www.mindinlaw.com/blog-1/navigating-the-complexities-of-child-custody-in-new-york-city-courts",
+    "https://www.mindinlaw.com/blog-1/nyc-employment-discrimination-harrassment-lawyer",
+    "https://www.mindinlaw.com/home",
+    "https://www.mindinlaw.com/uncontested-divorce-from-yaniv-associates",
+    "https://www.mindinlaw.com/uncontested-divorce-from-jason-barbara"
+  ],
+  "per_url": {
+    "https://www.mindinlaw.com/": {
+      "iframes": [],
+      "videos": [
+        {
+          "provider": "vimeo",
+          "url": "player.vimeo.com/video/236782868?h=785d46ea0f",
+          "source_page": "https://www.mindinlaw.com/",
+          "video_id": "236782868",
+          "hash": "785d46ea0f",
+          "seen_on": [
+            "https://www.mindinlaw.com/",
+            "https://www.mindinlaw.com/home"
+          ]
+        }
+      ],
+      "booking": [
+        {
+          "provider": "calendly",
+          "url": "https://calendly.com/mindinlaw/15-minute-strategy-call",
+          "source_page": "https://www.mindinlaw.com/",
+          "seen_on": [
+            "https://www.mindinlaw.com/",
+            "https://www.mindinlaw.com/our-attorneys-1",
+            "https://www.mindinlaw.com/contact",
+            "https://www.mindinlaw.com/blog-1",
+            "https://www.mindinlaw.com/blog-1/navigating-the-complexities-of-child-custody-in-new-york-city-courts",
+            "https://www.mindinlaw.com/home",
+            "https://www.mindinlaw.com/uncontested-divorce-from-yaniv-associates",
+            "https://www.mindinlaw.com/uncontested-divorce-from-jason-barbara"
+          ]
+        }
+      ],
+      "maps": [],
+      "widgets": [
+        {
+          "provider": "reviewsonmywebsite",
+          "widget_id": "cc9a83f5fde190624e3b50593506d00e",
+          "script_src": "https://reviewsonmywebsite.com/js/v2/embed.js?id=cc9a83f5fde190624e3b50593506d00e",
+          "seen_on": [
+            "https://www.mindinlaw.com/",
+            "https://www.mindinlaw.com/home"
+          ]
+        }
+      ]
+    },
+    "https://www.mindinlaw.com/our-attorneys-1": {
+      "iframes": [],
+      "videos": [],
+      "booking": [
+        {
+          "provider": "calendly",
+          "url": "https://calendly.com/mindinlaw/15-minute-strategy-call",
+          "source_page": "https://www.mindinlaw.com/our-attorneys-1"
+        }
+      ],
+      "maps": [],
+      "widgets": []
+    },
+    "https://www.mindinlaw.com/contact": {
+      "iframes": [],
+      "videos": [],
+      "booking": [
+        {
+          "provider": "calendly",
+          "url": "https://calendly.com/mindinlaw/15-minute-strategy-call",
+          "source_page": "https://www.mindinlaw.com/contact"
+        }
+      ],
+      "maps": [],
+      "widgets": []
+    },
+    "https://www.mindinlaw.com/testimonials": {
+      "iframes": [],
+      "videos": [],
+      "booking": [],
+      "maps": [],
+      "widgets": [
+        {
+          "provider": "reviewsonmywebsite",
+          "widget_id": "7bf8acda5d5930b1a9db343a4ec1b31c",
+          "script_src": "https://reviewsonmywebsite.com/js/v2/embed.js?id=7bf8acda5d5930b1a9db343a4ec1b31c",
+          "seen_on": [
+            "https://www.mindinlaw.com/testimonials"
+          ]
+        }
+      ]
+    },
+    "https://www.mindinlaw.com/blog-1": {
+      "iframes": [],
+      "videos": [],
+      "booking": [
+        {
+          "provider": "calendly",
+          "url": "https://calendly.com/mindinlaw/15-minute-strategy-call",
+          "source_page": "https://www.mindinlaw.com/blog-1"
+        }
+      ],
+      "maps": [],
+      "widgets": []
+    },
+    "https://www.mindinlaw.com/blog-1/navigating-the-complexities-of-child-custody-in-new-york-city-courts": {
+      "iframes": [],
+      "videos": [],
+      "booking": [
+        {
+          "provider": "calendly",
+          "url": "https://calendly.com/mindinlaw/15-minute-strategy-call",
+          "source_page": "https://www.mindinlaw.com/blog-1/navigating-the-complexities-of-child-custody-in-new-york-city-courts"
+        }
+      ],
+      "maps": [],
+      "widgets": []
+    },
+    "https://www.mindinlaw.com/blog-1/nyc-employment-discrimination-harrassment-lawyer": {
+      "iframes": [],
+      "videos": [],
+      "booking": [],
+      "maps": [],
+      "widgets": []
+    },
+    "https://www.mindinlaw.com/home": {
+      "iframes": [],
+      "videos": [
+        {
+          "provider": "vimeo",
+          "url": "player.vimeo.com/video/236782868?h=785d46ea0f",
+          "source_page": "https://www.mindinlaw.com/home",
+          "video_id": "236782868",
+          "hash": "785d46ea0f"
+        }
+      ],
+      "booking": [
+        {
+          "provider": "calendly",
+          "url": "https://calendly.com/mindinlaw/15-minute-strategy-call",
+          "source_page": "https://www.mindinlaw.com/home"
+        }
+      ],
+      "maps": [],
+      "widgets": [
+        {
+          "provider": "reviewsonmywebsite",
+          "widget_id": "cc9a83f5fde190624e3b50593506d00e",
+          "script_src": "https://reviewsonmywebsite.com/js/v2/embed.js?id=cc9a83f5fde190624e3b50593506d00e"
+        }
+      ]
+    },
+    "https://www.mindinlaw.com/uncontested-divorce-from-yaniv-associates": {
+      "iframes": [],
+      "videos": [],
+      "booking": [
+        {
+          "provider": "calendly",
+          "url": "https://calendly.com/mindinlaw/15-minute-strategy-call",
+          "source_page": "https://www.mindinlaw.com/uncontested-divorce-from-yaniv-associates"
+        }
+      ],
+      "maps": [],
+      "widgets": []
+    },
+    "https://www.mindinlaw.com/uncontested-divorce-from-jason-barbara": {
+      "iframes": [],
+      "videos": [],
+      "booking": [
+        {
+          "provider": "calendly",
+          "url": "https://calendly.com/mindinlaw/15-minute-strategy-call",
+          "source_page": "https://www.mindinlaw.com/uncontested-divorce-from-jason-barbara"
+        }
+      ],
+      "maps": [],
+      "widgets": []
+    }
+  },
+  "aggregate": {
+    "videos": [
+      {
+        "provider": "vimeo",
+        "url": "player.vimeo.com/video/236782868?h=785d46ea0f",
+        "source_page": "https://www.mindinlaw.com/",
+        "video_id": "236782868",
+        "hash": "785d46ea0f",
+        "seen_on": [
+          "https://www.mindinlaw.com/",
+          "https://www.mindinlaw.com/home"
+        ]
+      }
+    ],
+    "booking": [
+      {
+        "provider": "calendly",
+        "url": "https://calendly.com/mindinlaw/15-minute-strategy-call",
+        "source_page": "https://www.mindinlaw.com/",
+        "seen_on": [
+          "https://www.mindinlaw.com/",
+          "https://www.mindinlaw.com/our-attorneys-1",
+          "https://www.mindinlaw.com/contact",
+          "https://www.mindinlaw.com/blog-1",
+          "https://www.mindinlaw.com/blog-1/navigating-the-complexities-of-child-custody-in-new-york-city-courts",
+          "https://www.mindinlaw.com/home",
+          "https://www.mindinlaw.com/uncontested-divorce-from-yaniv-associates",
+          "https://www.mindinlaw.com/uncontested-divorce-from-jason-barbara"
+        ]
+      }
+    ],
+    "maps": [],
+    "widgets": [
+      {
+        "provider": "reviewsonmywebsite",
+        "widget_id": "cc9a83f5fde190624e3b50593506d00e",
+        "script_src": "https://reviewsonmywebsite.com/js/v2/embed.js?id=cc9a83f5fde190624e3b50593506d00e",
+        "seen_on": [
+          "https://www.mindinlaw.com/",
+          "https://www.mindinlaw.com/home"
+        ]
+      },
+      {
+        "provider": "reviewsonmywebsite",
+        "widget_id": "7bf8acda5d5930b1a9db343a4ec1b31c",
+        "script_src": "https://reviewsonmywebsite.com/js/v2/embed.js?id=7bf8acda5d5930b1a9db343a4ec1b31c",
+        "seen_on": [
+          "https://www.mindinlaw.com/testimonials"
+        ]
+      }
+    ],
+    "iframes": []
+  }
+}

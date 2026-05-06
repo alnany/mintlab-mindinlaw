@@ -1,0 +1,863 @@
+{
+  "origin": "https://www.mindinlaw.com",
+  "base_url": "https://www.mindinlaw.com/",
+  "pages": {
+    "/blog-1": {
+      "url": "https://www.mindinlaw.com/blog-1",
+      "slug": "blog-1",
+      "status": 200,
+      "depth": 0,
+      "text_length": 171359,
+      "js_rendered": false,
+      "title": "Mindin Law Blog \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "Legal blog for Law Offices of Mindin &amp; Mindin, P.C. discussing  issues of divorce, support, custody, matrimonial law and civil litigation in New York State.",
+      "h1": [
+        "A.S. v. J.A.: Why Delay and Nonperformance Can Defeat Enforcement of a New York Divorce Stipulation",
+        "New York \u201cPet Custody\u201d in Divorce",
+        "In New York Custody, \u201cWho Loves the Children More\u201d Is Not the Legal Test"
+      ],
+      "h2": [
+        "Laches: waiting seven years can make enforcement inequitable",
+        "Why was contempt denied?",
+        "Counsel fees: losing an enforcement motion can cost you",
+        "Practical lessons for New York divorce and post-judgment enforcement",
+        "The Statute: Domestic Relations Law \u00a7 236(B)(5)(d)(15)",
+        "What Counts as a \u201cCompanion Animal\u201d in New York Divorce",
+        "What \u201cBest Interest of the Animal\u201d Means in Court",
+        "The NYC Reality: Stability and Primary Caretaking Still Win These Cases",
+        "Evidence in a New York Pet Dispute",
+        "Can a New York Court Order Pet \u201cVisitation\u201d or Shared Possession"
+      ]
+    },
+    "/blog-1/navigating-the-complexities-of-child-custody-in-new-york-city-courts": {
+      "url": "https://www.mindinlaw.com/blog-1/navigating-the-complexities-of-child-custody-in-new-york-city-courts",
+      "slug": "blog-1_navigating-the-complexities-of-child-custody-in-new-york-city-courts",
+      "status": 200,
+      "depth": 0,
+      "text_length": 5072,
+      "js_rendered": false,
+      "title": "Navigating the Complexities of Child Custody in New York City Courts \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Navigating the Complexities of Child Custody in New York City Courts",
+        "The Vital Role of an Experienced Top Tier Child Custody Attorney",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Understanding the 'Best Interests of the Child' in New York",
+        "Understanding What Your NYC Child Custody Judge Really Wants: 3 Essential Insights for New York City Divorce Cases",
+        "Pro Soccer Star Achraf Hakimi relies on his mother to save his fortune from ex-wife Hiba Abouk - What happens if someone did the same thing in New York?"
+      ]
+    },
+    "/blog-1/nyc-employment-discrimination-harrassment-lawyer": {
+      "url": "https://www.mindinlaw.com/blog-1/nyc-employment-discrimination-harrassment-lawyer",
+      "slug": "blog-1_nyc-employment-discrimination-harrassment-lawyer",
+      "status": 200,
+      "depth": 0,
+      "text_length": 3650,
+      "js_rendered": false,
+      "title": "What are the basic elements of a New York Employment Discrimination case? \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "What are the basic elements of a New York Employment Discrimination case?",
+        "",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "NYC ACS is after me!"
+      ]
+    },
+    "/our-attorneys-1": {
+      "url": "https://www.mindinlaw.com/our-attorneys-1",
+      "slug": "our-attorneys-1",
+      "status": 200,
+      "depth": 0,
+      "text_length": 6399,
+      "js_rendered": false,
+      "title": "Experienced NYC Divorce & Family Law Attorney | Mindin & Mindin, P.C. \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "Top-rated New York City divorce attorneys with over a decade of experience in family law, prenuptial agreements, child custody, and high-asset divorces. Call 888-501-3292 for a confidential consultation today.",
+      "h1": [
+        "Leon Mindin, Esq.",
+        "Elena Mindin, Esq.",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": []
+    },
+    "/home": {
+      "url": "https://www.mindinlaw.com/home",
+      "slug": "home",
+      "status": 200,
+      "depth": 0,
+      "text_length": 4054,
+      "js_rendered": false,
+      "title": "Mindin & Mindin | NYC's Choice for Family and Matrimonial Law",
+      "meta_description": "New York City Family Law, Divorce, Child Support, Custody, Prenuptial Agreement Attorneys.",
+      "h1": [
+        "Modern New York City Divorce Attorneys with Innovative Solutions for your Family/Matrimonial Needs",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "YOU DESERVE AN ATTORNEY WITH A PROVEN TRACK RECORD OF SUCCESS IN THE COURTROOM AND AT THE BARGAINING TABLE.MINDIN & MINDIN IS YOUR ONE-STOP SHOP FOR ALL NYC DIVORCE AND FAMILY MATTERS.",
+        "Our Client-Focused Approach",
+        "\u201cOur clients are real people with real problems, not just cases. We are here to listen to your story, understand your issue and formulate a plan to help you obtain a fair resolution to your legal situation.\" - Leon Mindin, Esq."
+      ]
+    },
+    "/contact": {
+      "url": "https://www.mindinlaw.com/contact",
+      "slug": "contact",
+      "status": 200,
+      "depth": 0,
+      "text_length": 250,
+      "js_rendered": false,
+      "title": "Contact Us \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "Contact Us.&nbsp;",
+      "h1": [
+        "CONTACT US",
+        "Contact The Firm",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": []
+    },
+    "/testimonials": {
+      "url": "https://www.mindinlaw.com/testimonials",
+      "slug": "testimonials",
+      "status": 200,
+      "depth": 0,
+      "text_length": 115,
+      "js_rendered": false,
+      "title": "Testimonials \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "Find out what our client's are saying about us.",
+      "h1": [
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": []
+    },
+    "/uncontested-divorce-from-yaniv-associates": {
+      "url": "https://www.mindinlaw.com/uncontested-divorce-from-yaniv-associates",
+      "slug": "uncontested-divorce-from-yaniv-associates",
+      "status": 200,
+      "depth": 0,
+      "text_length": 2487,
+      "js_rendered": false,
+      "title": "Uncontested Divorce from Yaniv & Associates \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "Experienced New York divorce attorneys at Mindin & Mindin, P.C. specializing in uncontested divorces, settlement reviews, and ensuring a fair, efficient process. Protect your rights with personalized, expert legal representation. Call today for a consultation!",
+      "h1": [
+        "Received Divorce Papers from Yaniv & Associates? We Can Help!",
+        "Ensure Your Divorce is Handled Fairly and Efficiently",
+        "Get Started Now"
+      ],
+      "h2": []
+    },
+    "/uncontested-divorce-from-jason-barbara": {
+      "url": "https://www.mindinlaw.com/uncontested-divorce-from-jason-barbara",
+      "slug": "uncontested-divorce-from-jason-barbara",
+      "status": 200,
+      "depth": 0,
+      "text_length": 2511,
+      "js_rendered": false,
+      "title": "Uncontested Divorce from Jason Barbara & Associates \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "Experienced New York divorce attorneys at Mindin & Mindin, P.C. specializing in uncontested divorces, settlement reviews, and ensuring a fair, efficient process. Protect your rights with personalized, expert legal representation. Call today for a consultation!",
+      "h1": [
+        "Received Divorce Papers from Jason Barbara & Associates?We Can Help!",
+        "Ensure Your Divorce is Handled Fairly and Efficiently",
+        "Get Started Now"
+      ],
+      "h2": []
+    },
+    "/info-bryant": {
+      "url": "https://www.mindinlaw.com/info-bryant",
+      "slug": "info-bryant",
+      "status": 200,
+      "depth": 0,
+      "text_length": 1202,
+      "js_rendered": false,
+      "title": "Info \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": []
+    },
+    "/new-page": {
+      "url": "https://www.mindinlaw.com/new-page",
+      "slug": "new-page",
+      "status": 200,
+      "depth": 0,
+      "text_length": 290,
+      "js_rendered": false,
+      "title": "Our Services \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Our Expert Services",
+        "NYC FAMILY AND MATRIMONIAL LAW",
+        "Divorce"
+      ],
+      "h2": [
+        "",
+        "At Mindin & Mindin, P.C., we focus our skills on you and your family. The benefit you receive with choosing us to represent you is that you will get top-tier representation, a no-nonsense approach and trial attorneys who will fight for you to secure the best possible outcome for your case."
+      ]
+    },
+    "/divorce": {
+      "url": "https://www.mindinlaw.com/divorce",
+      "slug": "divorce",
+      "status": 200,
+      "depth": 0,
+      "text_length": 4833,
+      "js_rendered": false,
+      "title": "Divorce \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Experienced NYC Divorce Attorneys Helping You Move Forward",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Comprehensive Divorce Representation in New York",
+        "New York Divorce: Understanding Your Rights & Options",
+        "Asset Division & Protecting Your Financial Future",
+        "Spousal Maintenance & Alimony \u2013 Ensuring Fair Support",
+        "Domestic Violence & Orders of Protection",
+        "Why Choose Mindin & Mindin, P.C.?",
+        "Call Now for a Free Consultation"
+      ]
+    },
+    "/lgbtq-divorce": {
+      "url": "https://www.mindinlaw.com/lgbtq-divorce",
+      "slug": "lgbtq-divorce",
+      "status": 200,
+      "depth": 0,
+      "text_length": 5306,
+      "js_rendered": false,
+      "title": "LGBTQ Divorce | Ensure Your Rights \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "Discover comprehensive legal representation for LGBTQ divorce in New York. Protecting rights and ensuring a fair outcome in child custody, property division, and more.",
+      "h1": [
+        "Same-Sex / LGBTQ Divorce in New York \u2013 Protecting Your Rights with Experienced Legal Representation",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Experienced LGBTQ Divorce Lawyers in New York",
+        "Understanding LGBTQ Divorce in New York",
+        "Key Issues in Same-Sex Divorce",
+        "Why Choose Mindin & Mindin, P.C. for Your LGBTQ Divorce?",
+        "Schedule a Free No Obligation Legal Consultation Today"
+      ]
+    },
+    "/prenuptial-agreements": {
+      "url": "https://www.mindinlaw.com/prenuptial-agreements",
+      "slug": "prenuptial-agreements",
+      "status": 200,
+      "depth": 0,
+      "text_length": 7516,
+      "js_rendered": false,
+      "title": "Prenuptial Agreements \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Prenuptial & Postnuptial Agreements in New York",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Why a Marital Agreement is Essential for Financial Security",
+        "What is a Prenuptial or Postnuptial Agreement?",
+        "Why You Should Consider a Marital Agreement",
+        "What Can Be Included in a Prenuptial or Postnuptial Agreement?",
+        "Who Should Get a Prenuptial or Postnuptial Agreement?",
+        "Flat-Fee Prenuptial & Postnuptial Agreement Services",
+        "Are Prenuptial & Postnuptial Agreements Enforceable in New York?",
+        "Leon Mindin, Esq. \u2013 Experienced Prenuptial Agreement Attorney in NYC",
+        "Why Choose Our NYC Prenuptial Agreement Services?",
+        "Start Protecting Your Future Today \u2013Click to book a Free Consultation!"
+      ]
+    },
+    "/child-support": {
+      "url": "https://www.mindinlaw.com/child-support",
+      "slug": "child-support",
+      "status": 200,
+      "depth": 0,
+      "text_length": 5496,
+      "js_rendered": false,
+      "title": "Child Support | Secure Your Child's Future \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "Learn about New York child support laws and how Mindin & Mindin, P.C. assists with enforcement, calculations, and modifications for fair support and securing your child's well-being.",
+      "h1": [
+        "Child Support in New York: What Every Parent Needs to Know",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Understanding Child Support in New York",
+        "How Child Support is Calculated in New York",
+        "Factors That Influence Child Support Payments",
+        "Can Child Support Be Modified?",
+        "Enforcing Child Support Payments in New York",
+        "Common Child Support Challenges & How We Can Help",
+        "\ud83d\udca1 Looking for a knowledgeable New York child support attorney? Call 888.501.3292 today!",
+        "How to Get the Child Support You Deserve"
+      ]
+    },
+    "/order-of-protection": {
+      "url": "https://www.mindinlaw.com/order-of-protection",
+      "slug": "order-of-protection",
+      "status": 200,
+      "depth": 0,
+      "text_length": 5590,
+      "js_rendered": false,
+      "title": "Order of Protection \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Orders of Protection in New York: What You Need to Know",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "How Orders of Protection Impact Your Life",
+        "What Happens If You Violate an Order of Protection?",
+        "Why You Need an Experienced Order of Protection Lawyer",
+        "Frequently Asked Questions",
+        "Call Mindin & Mindin, P.C. Today!"
+      ]
+    },
+    "/child-custody": {
+      "url": "https://www.mindinlaw.com/child-custody",
+      "slug": "child-custody",
+      "status": 200,
+      "depth": 0,
+      "text_length": 6408,
+      "js_rendered": false,
+      "title": "Child Custody \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "New York Child Custody & Visitation: Protecting Your Parental Rights",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "How Custody & Visitation Work in New York",
+        "Types of Custody in New York",
+        "How Courts Decide Custody in New York",
+        "Visitation & Parenting Time in New York",
+        "Modifying Custody & Visitation Orders",
+        "Parental Relocation Cases",
+        "Why You Need a Strong Custody Attorney",
+        "Frequently Asked Questions About Child Custody in New York",
+        "Call Mindin & Mindin, P.C. Today!"
+      ]
+    },
+    "/uncontested-divorce": {
+      "url": "https://www.mindinlaw.com/uncontested-divorce",
+      "slug": "uncontested-divorce",
+      "status": 200,
+      "depth": 0,
+      "text_length": 4199,
+      "js_rendered": false,
+      "title": "Uncontested Divorce \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "New York City Uncontested Divorce: A Fast, Affordable, and Stress-Free Option",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "What Is an Uncontested Divorce?",
+        "Who Qualifies for an Uncontested Divorce in New York?",
+        "Uncontested Divorce with Children: Is It Possible?",
+        "How Long Does an Uncontested Divorce Take in NYC?",
+        "Why Choose Mindin & Mindin, P.C. for Your Uncontested Divorce?",
+        "What Happens If My Spouse and I Don\u2019t Agree on Everything?",
+        "Start Your Uncontested Divorce Today"
+      ]
+    },
+    "/family-law-for-professional-athletes": {
+      "url": "https://www.mindinlaw.com/family-law-for-professional-athletes",
+      "slug": "family-law-for-professional-athletes",
+      "status": 200,
+      "depth": 0,
+      "text_length": 5366,
+      "js_rendered": false,
+      "title": "Family Law for New York Professional Athletes \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Elite Family Law Representation for Professional Athletes in New York City",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Why Professional Athletes Need a Skilled Family Law Attorney",
+        "Prenuptial & Postnuptial Agreements for Athletes",
+        "Discreet & Strategic Divorce Representation for Athletes",
+        "Child Custody & Support for Professional Athletes",
+        "Asset & Property Division in Athlete Divorces",
+        "Spousal Maintenance & Alimony for Athletes",
+        "Why Choose Mindin & Mindin, P.C. for Your Family Law Needs?"
+      ]
+    },
+    "/post-divorce-modification": {
+      "url": "https://www.mindinlaw.com/post-divorce-modification",
+      "slug": "post-divorce-modification",
+      "status": 200,
+      "depth": 0,
+      "text_length": 5295,
+      "js_rendered": false,
+      "title": "Post-Divorce Modification \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Post-Divorce Modifications & Enforcement",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "When Can a Divorce Agreement Be Modified?",
+        "Enforcing Divorce Orders in New York",
+        "Why Choose Mindin & Mindin, P.C. for Your Post-Divorce Legal Needs?",
+        "Schedule a Free Consultation Today"
+      ]
+    },
+    "/nyc-family-court": {
+      "url": "https://www.mindinlaw.com/nyc-family-court",
+      "slug": "nyc-family-court",
+      "status": 200,
+      "depth": 0,
+      "text_length": 4210,
+      "js_rendered": false,
+      "title": "NYC Family Court \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Experienced New York Family Court Attorneys Handling Custody, Child Support & Orders of Protection",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Trusted Family Court Lawyers in New York City",
+        "With decades of combined experience, our New York Family Court attorneys have successfully represented clients in all five boroughs\u2014Manhattan, Brooklyn, Queens, the Bronx, and Staten Island. We focus exclusively on family law and matrimonial litigation, giving us a deep understanding of New York\u2019s complex family law system.",
+        "Comprehensive Representation for All Family Court Matters",
+        "Why Choose Law Offices of Mindin & Mindin, P.C.?",
+        "Click HERE to Schedule a Free Strategy Call"
+      ]
+    },
+    "/forensic-evaluation-consulting": {
+      "url": "https://www.mindinlaw.com/forensic-evaluation-consulting",
+      "slug": "forensic-evaluation-consulting",
+      "status": 200,
+      "depth": 0,
+      "text_length": 2638,
+      "js_rendered": false,
+      "title": "Forensic Evaluation Consulting \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Forensic Evaluation Consulting and Preparation Services",
+        "Guiding You Through Forensic Evaluations in Custody Cases",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Take Control of Your Custody Case"
+      ]
+    },
+    "/high-conflict-divorce": {
+      "url": "https://www.mindinlaw.com/high-conflict-divorce",
+      "slug": "high-conflict-divorce",
+      "status": 200,
+      "depth": 0,
+      "text_length": 5132,
+      "js_rendered": false,
+      "title": "High Conflict Divorce in New York City \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "High Conflict Divorce Lawyer in New York City",
+        "How Mindin & Mindin, P.C. Can Help You",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Aggressive Representation for High Conflict Custody and Financial Divorce Cases",
+        "What Is a High-Conflict Divorce?",
+        "High-Conflict Financial Divorce",
+        "Aggressive and Effective Representation in Custody Disputes",
+        "Why Choose Mindin & Mindin, P.C.?",
+        "Let\u2019s work together."
+      ]
+    },
+    "/interstate-divorce": {
+      "url": "https://www.mindinlaw.com/interstate-divorce",
+      "slug": "interstate-divorce",
+      "status": 200,
+      "depth": 0,
+      "text_length": 3966,
+      "js_rendered": false,
+      "title": "Interstate Divorce \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Interstate Divorce Attorneys",
+        "Schedule Your Consultation Today",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Understanding Interstate Divorce in New York",
+        "Key Challenges in Interstate Divorce Cases",
+        "Why Choose Mindin & Mindin, P.C. for Your Interstate Divorce?"
+      ]
+    },
+    "/relocation": {
+      "url": "https://www.mindinlaw.com/relocation",
+      "slug": "relocation",
+      "status": 200,
+      "depth": 0,
+      "text_length": 3595,
+      "js_rendered": false,
+      "title": "Relocation \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Child Custody and Parental Relocation",
+        "Experienced New York Attorneys Handling Complex Custody Relocation Cases",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Understanding Custody Relocation Laws in New York",
+        "Proven Expertise in High-Stakes Relocation Cases",
+        "Protect Your Rights \u2013 Consult an Experienced Custody Relocation Lawyer Today",
+        "Schedule Your Consultation Today"
+      ]
+    },
+    "/divorce-defense": {
+      "url": "https://www.mindinlaw.com/divorce-defense",
+      "slug": "divorce-defense",
+      "status": 200,
+      "depth": 0,
+      "text_length": 3574,
+      "js_rendered": false,
+      "title": "Divorce Defense \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Divorce Defense Attorneys in New York",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "Protecting Your Rights, Reputation, and Assets",
+        "What Does It Mean to Defend a Divorce?",
+        "Aggressive Defense Against False Accusations",
+        "Defending Against Inflated Support Claims",
+        "Securing a Fair Distribution of Marital Assets",
+        "Why Choose Mindin & Mindin, P.C.?",
+        "Ready to Defend Your Rights?"
+      ]
+    },
+    "/cart": {
+      "url": "https://www.mindinlaw.com/cart",
+      "slug": "cart",
+      "status": 200,
+      "depth": 0,
+      "text_length": 1202,
+      "js_rendered": false,
+      "title": "Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": []
+    },
+    "/": {
+      "url": "https://www.mindinlaw.com/",
+      "slug": "home",
+      "status": 200,
+      "depth": 0,
+      "text_length": 4054,
+      "js_rendered": false,
+      "title": "Mindin & Mindin | NYC's Choice for Family and Matrimonial Law",
+      "meta_description": "New York City Family Law, Divorce, Child Support, Custody, Prenuptial Agreement Attorneys.",
+      "h1": [
+        "Modern New York City Divorce Attorneys with Innovative Solutions for your Family/Matrimonial Needs",
+        "Are you ready to find a solution to your case?"
+      ],
+      "h2": [
+        "YOU DESERVE AN ATTORNEY WITH A PROVEN TRACK RECORD OF SUCCESS IN THE COURTROOM AND AT THE BARGAINING TABLE.MINDIN & MINDIN IS YOUR ONE-STOP SHOP FOR ALL NYC DIVORCE AND FAMILY MATTERS.",
+        "Our Client-Focused Approach",
+        "\u201cOur clients are real people with real problems, not just cases. We are here to listen to your story, understand your issue and formulate a plan to help you obtain a fair resolution to your legal situation.\" - Leon Mindin, Esq."
+      ]
+    },
+    "/expertise": {
+      "url": "https://www.mindinlaw.com/expertise",
+      "slug": "expertise",
+      "status": 200,
+      "depth": 0,
+      "text_length": 290,
+      "js_rendered": false,
+      "title": "Our Services \u2014 Mindin & Mindin, P.C.",
+      "meta_description": "",
+      "h1": [
+        "Our Expert Services",
+        "NYC FAMILY AND MATRIMONIAL LAW",
+        "Divorce"
+      ],
+      "h2": [
+        "",
+        "At Mindin & Mindin, P.C., we focus our skills on you and your family. The benefit you receive with choosing us to represent you is that you will get top-tier representation, a no-nonsense approach and trial attorneys who will fight for you to secure the best possible outcome for your case."
+      ]
+    }
+  },
+  "images": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1777835468658-V70FDVI054LLW1KAATTX/unsplash-image-Mqc-m8kgxkg.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-Mqc-m8kgxkg.jpg",
+      "hash": "937ecf708499",
+      "bytes": 541923
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/074a7d43-0f42-45d2-8c9f-85a8c95c2161/FightingCatsandDogs.png",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/FightingCatsandDogs.png",
+      "hash": "c90ac305b484",
+      "bytes": 4041260
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/9f453472-cca1-40be-8252-f2592d6eba2e/LoveIsNotaTest.png",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/LoveIsNotaTest.png",
+      "hash": "9f0498fb3c6d",
+      "bytes": 3657230
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/c9fbed09-e717-4f7a-9541-4e3b6021fbcf/Zelle+Child+Support+Policy.png",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/ZelleChildSupportPolicy.png",
+      "hash": "e3e6a865bf46",
+      "bytes": 3322209
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/aaa9acf1-669f-4fbc-bf62-54684b2e9e77/Gemini_Generated_Image_ea1p4jea1p4jea1p.png",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/Gemini_Generated_Image_ea1p4jea1p4jea1p.png",
+      "hash": "51860d2108a5",
+      "bytes": 10720580
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1773853282339-0372L63TPDWT8CFV3Q4Q/unsplash-image-GnWfl_nnZro.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-GnWfl_nnZro.jpg",
+      "hash": "8881ded310b4",
+      "bytes": 541608
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1773444777798-1DUAWA8ZFKC0BMUIE504/unsplash-image-j06gLuKK0GM.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-j06gLuKK0GM.jpg",
+      "hash": "38af6c8f3c01",
+      "bytes": 476163
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1771208155583-WU5MNC3XROU0CIY237VM/unsplash-image-MbYFGJT06gk.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-MbYFGJT06gk.jpg",
+      "hash": "a83e5d96ad52",
+      "bytes": 576998
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/27c9ce39-37cb-41ed-b041-74d61e50dcdb/Couple-Photo-Option-2-1.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/Couple-Photo-Option-2-1.jpg",
+      "hash": "c8376e9f500b",
+      "bytes": 668090
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1768847241172-HQUIXWXGV5U99Q92GYO6/unsplash-image-ZwaqicZOAgc.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-ZwaqicZOAgc.jpg",
+      "hash": "acb900c950dd",
+      "bytes": 814736
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1768345410440-SBIXEEKMUQ812M4IR423/unsplash-image-DNViTo3BUpk.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-DNViTo3BUpk.jpg",
+      "hash": "65915db55099",
+      "bytes": 1105225
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1767566321369-PW5C9F9IGMXU8H3QAZSV/unsplash-image-glpYh1cWf0o.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-glpYh1cWf0o.jpg",
+      "hash": "1b5f7a8fa45b",
+      "bytes": 330011
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1764543224824-1959U6HWJQBFKUATGZJD/unsplash-image-hhJbD-Vrxoo.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-hhJbD-Vrxoo.jpg",
+      "hash": "cf2f12373224",
+      "bytes": 809164
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1764087900242-98SP6XC41KAVLSHBXY5G/unsplash-image-V6bsHM4BrRo.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-V6bsHM4BrRo.jpg",
+      "hash": "a260d1831940",
+      "bytes": 667437
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1762630403019-J5N9THA7DV3J7MZFSTS9/unsplash-image-fU6p8qiGdgw.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-fU6p8qiGdgw.jpg",
+      "hash": "c89500e82a39",
+      "bytes": 755717
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1762016315980-WU3YAGERXMG3ALVJ2E31/unsplash-image-mv38TB_Ljj8.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-mv38TB_Ljj8.jpg",
+      "hash": "34c1b0636e67",
+      "bytes": 686116
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1760646324814-ECX6RQFWHTOIRCJL94IK/unsplash-image-zsXDWzlqpKU.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-zsXDWzlqpKU.jpg",
+      "hash": "99b8cbfe0904",
+      "bytes": 696150
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1756513230332-SP6JX2E81J4TCWHEQLFB/unsplash-image-66NaCdBrkCs.jpg",
+      "alt": "",
+      "page": "/blog-1",
+      "local": "images/unsplash-image-66NaCdBrkCs.jpg",
+      "hash": "fbaf5d9b345f",
+      "bytes": 967018
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1703871669353-0EIOUENIYPWTS6X8806I/image-asset.jpeg",
+      "alt": "",
+      "page": "/blog-1/navigating-the-complexities-of-child-custody-in-new-york-city-courts",
+      "local": "images/image-asset.jpeg",
+      "hash": "030eda88f16c",
+      "bytes": 400380
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1436201585037-HO1CU9BI8CMO45FEU4HQ/lawlibrary.jpg",
+      "alt": "",
+      "page": "/our-attorneys-1",
+      "local": "images/lawlibrary.jpg",
+      "hash": "89df7c7bef2a",
+      "bytes": 272801
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1436201671170-X5R6YM2CVR70XA1UFBRE/image-asset.jpeg",
+      "alt": "",
+      "page": "/our-attorneys-1",
+      "local": "images/image-asset.jpeg",
+      "hash": "85fe9be1c0d0",
+      "bytes": 37690
+    },
+    {
+      "src": "https://images.avvo.com/avvo/cms/images/amos_assets/microbadge.png",
+      "alt": "Avvo - Rate your Lawyer. Get Free Legal Advice.",
+      "page": "/our-attorneys-1",
+      "local": "images/microbadge.png",
+      "hash": "035bcf0e7717",
+      "bytes": 2323
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1436202150399-O91CGG3I1OXZAUN201RC/image-asset.jpeg",
+      "alt": "",
+      "page": "/our-attorneys-1",
+      "local": "images/image-asset.jpeg",
+      "hash": "cd99269e7e04",
+      "bytes": 33064
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1467998143008-7IRIS96WVSZI16I83T2Z/centrest-divorce.jpg",
+      "alt": "",
+      "page": "/",
+      "local": "images/centrest-divorce.jpg",
+      "hash": "b903426127a4",
+      "bytes": 245823
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1436198961628-36FWSLJ0SRRXAEBWJVH8/tey3MlL1uaobt0o1_1280.jpg",
+      "alt": "",
+      "page": "/contact",
+      "local": "images/tey3MlL1uaobt0o1_1280.jpg",
+      "hash": "924931eb49bc",
+      "bytes": 223389
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1436209711459-M2B5KL0OQA0LX0ZC6O8Q/image-asset.png",
+      "alt": "",
+      "page": "/contact",
+      "local": "images/image-asset.png",
+      "hash": "8f044a389941",
+      "bytes": 6430
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/559aa07ce4b07b7dda58556a/1455901671025-SUU8F7AO1P4KAA6N8UOF/tumblr_nz7jywKJOL1ua3esko1_1280.jpg",
+      "alt": "",
+      "page": "/testimonials",
+      "local": "images/tumblr_nz7jywKJOL1ua3esko1_1280.jpg",
+      "hash": "7c46a84e5cca",
+      "bytes": 351374
+    }
+  ],
+  "videos": [],
+  "socials": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/mindinlaw",
+      "page": "/blog-1"
+    },
+    {
+      "platform": "yelp",
+      "url": "http://www.yelp.com/biz/law-offices-of-mindin-and-mindin-p-c-new-york",
+      "page": "/blog-1"
+    },
+    {
+      "platform": "yelp",
+      "url": "https://www.yelp.com/biz/law-offices-of-mindin-and-mindin-p-c-new-york",
+      "page": "/testimonials"
+    }
+  ],
+  "pdfs": [],
+  "blog_sample": [
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/5/3/as-v-ja-why-delay-and-nonperformance-can-defeat-enforcement-of-a-new-york-divorce-stipulation",
+      "title": "A.S. v. J.A.: Why Delay and Nonperformance Can Defeat Enforcement of a New York Divorce Stipulation \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "A.S. v. J.A.: Why Delay and Nonperformance Can Defeat Enforcement of a New York Divorce Stipulation\nNew York matrimonial settlements are contracts. Once a stipulation is placed on the record or incorporated into a judgment of divorce, parties often assume they can enforce it years later if the other side did not pay or perform. The Nassau County Supreme Court\u2019s decision in A.S. v. J.A., 2026 NY Sl"
+    },
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/4/28/new-york-pet-custody-in-divorce",
+      "title": "New York \u201cPet Custody\u201d in Divorce \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "New York \u201cPet Custody\u201d in Divorce\nIn a New York divorce, the fight over the dog or cat is often the most emotional dispute in the entire case (besides child custody of course). That is because most families do not view a pet as \u201cproperty,\u201d even though the legal system historically did. New York law has now moved in a more modern direction. Since October 25, 2021, New York courts deciding who will "
+    },
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/4/27/in-new-york-custody-who-loves-the-children-more-is-not-the-legal-test",
+      "title": "In New York Custody, \u201cWho Loves the Children More\u201d Is Not the Legal Test \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "In New York Custody, \u201cWho Loves the Children More\u201d Is Not the Legal Test\nIn Matter of Ola A. v Bafode D., 2026 NY Slip Op 02149 (1st Dept Apr. 9, 2026), the Appellate Division, First Department affirmed a New York County Family Court order awarding the mother primary physical custody and granting the father a defined parenting time schedule that included alternate weekends, summer breaks, holidays"
+    },
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/4/26/zelles-court-order-ban-what-it-means-for-new-york-child-support-and-spousal-support-payments",
+      "title": "Zelle\u2019s Court-Order Ban: What It Means for New York Child Support and Spousal Support Payments \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "Zelle\u2019s Court-Order Ban: What It Means for New York Child Support and Spousal Support Payments\nMany New Yorkers use Zelle the same way they use cash. It is fast, simple, and feels informal. That convenience becomes a problem the moment the payment is not informal, meaning it is court-ordered child support, spousal support, or maintenance.\nAs of April 2026, Zelle\u2019s terms now classify court-ordered "
+    },
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/4/9/new-york-custody-best-interests-stability-primary-caretaker-and-the-parent-most-likely-to-foster-the-other-parents-relationship",
+      "title": "New York Custody \u201cBest Interests\u201d: Stability, Primary Caretaker, and the Parent Most Likely to Foster the Other Parent\u2019s Relationship \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "New York Custody \u201cBest Interests\u201d: Stability, Primary Caretaker, and the Parent Most Likely to Foster the Other Parent\u2019s Relationship\nIn Matter of St. Sume v Herrera, 2026 NY Slip Op 01521 (2d Dept, Mar. 18, 2026), the Appellate Division reviewed a Kings County Family Court custody order that did two things at once. It awarded the father sole legal and physical custody based on the classic \u201cbest i"
+    },
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/3/21/when-a-teen-wants-to-come-back-custody-modification-after-relocation-in-new-york-city-divorce-and-family-court-practice",
+      "title": "When a Teen Wants to Come Back: Custody Modification After Relocation in New York City Divorce and Family Court Practice \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "When a Teen Wants to Come Back: Custody Modification After Relocation in New York City Divorce and Family Court Practice\nParents in New York City often assume that once a relocation order is granted, the custody arrangement is effectively locked in until the child turns 18. That is not how New York custody law works. A relocation order can be modified, but only if the parent seeking the change pro"
+    }
+  ],
+  "meta": {
+    "title": "Mindin & Mindin | NYC's Choice for Family and Matrimonial Law",
+    "description": "New York City Family Law, Divorce, Child Support, Custody, Prenuptial Agreement Attorneys."
+  },
+  "discovery_sources": {
+    "sitemap": 153,
+    "homepage": 76,
+    "bfs_fetched": 29
+  }
+}
