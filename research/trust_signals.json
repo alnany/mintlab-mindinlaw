@@ -1,0 +1,57 @@
+{
+  "firm_name": "Mindin & Mindin, P.C.",
+  "city": "New York",
+  "category": "Family and Matrimonial Law",
+  "principals": [
+    {
+      "name": "Leon Mindin, Esq.",
+      "role": "Founding Partner / Attorney",
+      "credentials": [
+        "Juris Doctor (JD)",
+        "Licensed to practice in New York"
+      ],
+      "career_transition": "Originally focused on broad civil litigation; specialized heavily into Family and Matrimonial law."
+    },
+    {
+      "name": "Elena Mindin, Esq.",
+      "role": "Attorney",
+      "credentials": [
+        "Juris Doctor (JD)",
+        "Licensed to practice in New York"
+      ],
+      "career_transition": null
+    }
+  ],
+  "years_in_practice": 10,
+  "dollar_metric": null,
+  "case_count": null,
+  "awards": [
+    "Top Rated Family Law Attorney by Super Lawyers",
+    "Super Lawyers Rising Star"
+  ],
+  "press_mentions": [
+    "Mindin Law Blog"
+  ],
+  "ratings": {
+    "Super Lawyers": "Top Rated",
+    "Avvo": "Active Profile"
+  },
+  "unique_niche": "Complex matrimonial cases involving business assets or multi-layered litigation",
+  "adversary_angle": "Boutique firm with civil litigation background handling complex assets vs. divorce-only boutique firms",
+  "measurable_outcomes": [],
+  "phone": "833-295-2441",
+  "address": "122 East 42nd Street, 4th Floor, New York, NY 10168",
+  "low_signal": false,
+  "signal_count": 5,
+  "external_sources": {
+    "articles": [
+      {
+        "source": "justia.com",
+        "title": "J.M. v G.V. :: 2025 :: New York Other Courts Decisions - Justia Law",
+        "url": "https://law.justia.com/cases/new-york/other-courts/2025/2025-ny-slip-op-25004.html",
+        "snippet": "Leon Mindin, Esq. Law Offices of Mindin & Mindin Attorney for Plaintiff 61 Broadway Suite 1315. New York, New York 10006. Grace M. Borrino ..."
+      }
+    ]
+  },
+  "enrichment_timestamp": "2026-04-22T16:11:39.362108Z"
+}

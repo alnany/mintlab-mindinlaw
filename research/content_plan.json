@@ -1,0 +1,456 @@
+{
+  "slug": "mindinlaw",
+  "origin": "https://www.mindinlaw.com",
+  "services": [
+    {
+      "slug": "divorce",
+      "title": "Experienced NYC Divorce Attorneys Helping You Move Forward",
+      "original_url": "https://www.mindinlaw.com/divorce",
+      "preview": "Divorce \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divo",
+      "keywords": [
+        "divorce",
+        "mindin",
+        "child",
+        "family",
+        "attorneys",
+        "expertise"
+      ],
+      "h2_headings": [
+        "Comprehensive Divorce Representation in New York",
+        "New York Divorce: Understanding Your Rights & Options",
+        "Asset Division & Protecting Your Financial Future",
+        "Spousal Maintenance & Alimony \u2013 Ensuring Fair Support",
+        "Domestic Violence & Orders of Protection"
+      ],
+      "section_type": "service",
+      "path": "/divorce"
+    },
+    {
+      "slug": "lgbtq-divorce",
+      "title": "Same-Sex / LGBTQ Divorce in New York \u2013 Protecting Your Rights with Experienced Legal Representation",
+      "original_url": "https://www.mindinlaw.com/lgbtq-divorce",
+      "preview": "LGBTQ Divorce | Ensure Your Rights \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGB",
+      "keywords": [
+        "divorce",
+        "mindin",
+        "lgbtq",
+        "child",
+        "family",
+        "support"
+      ],
+      "h2_headings": [
+        "Experienced LGBTQ Divorce Lawyers in New York",
+        "Understanding LGBTQ Divorce in New York",
+        "Key Issues in Same-Sex Divorce",
+        "Why Choose Mindin & Mindin, P.C. for Your LGBTQ Divorce?",
+        "Schedule a Free No Obligation Legal Consultation Today"
+      ],
+      "section_type": "service",
+      "path": "/lgbtq-divorce"
+    },
+    {
+      "slug": "prenuptial-agreements",
+      "title": "Prenuptial & Postnuptial Agreements in New York",
+      "original_url": "https://www.mindinlaw.com/prenuptial-agreements",
+      "preview": "Prenuptial Agreements \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Un",
+      "keywords": [
+        "divorce",
+        "mindin",
+        "prenuptial",
+        "agreements",
+        "child",
+        "family"
+      ],
+      "h2_headings": [
+        "Why a Marital Agreement is Essential for Financial Security",
+        "What is a Prenuptial or Postnuptial Agreement?",
+        "Why You Should Consider a Marital Agreement",
+        "What Can Be Included in a Prenuptial or Postnuptial Agreement?",
+        "Who Should Get a Prenuptial or Postnuptial Agreement?"
+      ],
+      "section_type": "service",
+      "path": "/prenuptial-agreements"
+    },
+    {
+      "slug": "child-support",
+      "title": "Child Support in New York: What Every Parent Needs to Know",
+      "original_url": "https://www.mindinlaw.com/child-support",
+      "preview": "Child Support | Secure Your Child's Future \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Div",
+      "keywords": [
+        "divorce",
+        "child",
+        "mindin",
+        "support",
+        "family",
+        "expertise"
+      ],
+      "h2_headings": [
+        "Understanding Child Support in New York",
+        "How Child Support is Calculated in New York",
+        "Factors That Influence Child Support Payments",
+        "Can Child Support Be Modified?",
+        "Enforcing Child Support Payments in New York"
+      ],
+      "section_type": "service",
+      "path": "/child-support"
+    },
+    {
+      "slug": "order-of-protection",
+      "title": "Orders of Protection in New York: What You Need to Know",
+      "original_url": "https://www.mindinlaw.com/order-of-protection",
+      "preview": "Order of Protection \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Unco",
+      "keywords": [
+        "divorce",
+        "mindin",
+        "protection",
+        "child",
+        "family",
+        "order"
+      ],
+      "h2_headings": [
+        "How Orders of Protection Impact Your Life",
+        "What Happens If You Violate an Order of Protection?",
+        "Why You Need an Experienced Order of Protection Lawyer",
+        "Frequently Asked Questions",
+        "Call Mindin & Mindin, P.C. Today!"
+      ],
+      "section_type": "service",
+      "path": "/order-of-protection"
+    },
+    {
+      "slug": "child-custody",
+      "title": "New York Child Custody & Visitation: Protecting Your Parental Rights",
+      "original_url": "https://www.mindinlaw.com/child-custody",
+      "preview": "Child Custody \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Unconteste",
+      "keywords": [
+        "divorce",
+        "child",
+        "mindin",
+        "custody",
+        "family",
+        "expertise"
+      ],
+      "h2_headings": [
+        "How Custody & Visitation Work in New York",
+        "Types of Custody in New York",
+        "How Courts Decide Custody in New York",
+        "Visitation & Parenting Time in New York",
+        "Modifying Custody & Visitation Orders"
+      ],
+      "section_type": "service",
+      "path": "/child-custody"
+    },
+    {
+      "slug": "uncontested-divorce",
+      "title": "New York City Uncontested Divorce: A Fast, Affordable, and Stress-Free Option",
+      "original_url": "https://www.mindinlaw.com/uncontested-divorce",
+      "preview": "Uncontested Divorce \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Unco",
+      "keywords": [
+        "divorce",
+        "mindin",
+        "child",
+        "family",
+        "uncontested",
+        "expertise"
+      ],
+      "h2_headings": [
+        "What Is an Uncontested Divorce?",
+        "Who Qualifies for an Uncontested Divorce in New York?",
+        "Uncontested Divorce with Children: Is It Possible?",
+        "How Long Does an Uncontested Divorce Take in NYC?",
+        "Why Choose Mindin & Mindin, P.C. for Your Uncontested Divorce?"
+      ],
+      "section_type": "service",
+      "path": "/uncontested-divorce"
+    },
+    {
+      "slug": "family-law-for-professional-athletes",
+      "title": "Elite Family Law Representation for Professional Athletes in New York City",
+      "original_url": "https://www.mindinlaw.com/family-law-for-professional-athletes",
+      "preview": "Family Law for New York Professional Athletes \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate ",
+      "keywords": [
+        "divorce",
+        "family",
+        "mindin",
+        "professional",
+        "athletes",
+        "child"
+      ],
+      "h2_headings": [
+        "Why Professional Athletes Need a Skilled Family Law Attorney",
+        "Prenuptial & Postnuptial Agreements for Athletes",
+        "Discreet & Strategic Divorce Representation for Athletes",
+        "Child Custody & Support for Professional Athletes",
+        "Asset & Property Division in Athlete Divorces"
+      ],
+      "section_type": "service",
+      "path": "/family-law-for-professional-athletes"
+    },
+    {
+      "slug": "post-divorce-modification",
+      "title": "Post-Divorce Modifications & Enforcement",
+      "original_url": "https://www.mindinlaw.com/post-divorce-modification",
+      "preview": "Post-Divorce Modification \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorc",
+      "keywords": [
+        "divorce",
+        "post-divorce",
+        "mindin",
+        "child",
+        "family",
+        "modification"
+      ],
+      "h2_headings": [
+        "When Can a Divorce Agreement Be Modified?",
+        "Enforcing Divorce Orders in New York",
+        "Why Choose Mindin & Mindin, P.C. for Your Post-Divorce Legal Needs?",
+        "Schedule a Free Consultation Today"
+      ],
+      "section_type": "service",
+      "path": "/post-divorce-modification"
+    },
+    {
+      "slug": "nyc-family-court",
+      "title": "Experienced New York Family Court Attorneys Handling Custody, Child Support & Orders of Protection",
+      "original_url": "https://www.mindinlaw.com/nyc-family-court",
+      "preview": "NYC Family Court \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Unconte",
+      "keywords": [
+        "divorce",
+        "family",
+        "mindin",
+        "child",
+        "custody",
+        "support"
+      ],
+      "h2_headings": [
+        "Trusted Family Court Lawyers in New York City",
+        "With decades of combined experience, our New York Family Court attorneys have successfully represented clients in all five boroughs\u2014Manhattan, Brooklyn, Queens, the Bronx, and Staten Island. We focus exclusively on family law and matrimonial litigation, giving us a deep understanding of New York\u2019s complex family law system.",
+        "Comprehensive Representation for All Family Court Matters",
+        "Why Choose Law Offices of Mindin & Mindin, P.C.?",
+        "Click HERE to Schedule a Free Strategy Call"
+      ],
+      "section_type": "service",
+      "path": "/nyc-family-court"
+    },
+    {
+      "slug": "forensic-evaluation-consulting",
+      "title": "Forensic Evaluation Consulting and Preparation Services",
+      "original_url": "https://www.mindinlaw.com/forensic-evaluation-consulting",
+      "preview": "Forensic Evaluation Consulting \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ D",
+      "keywords": [
+        "divorce",
+        "forensic",
+        "child",
+        "evaluation",
+        "mindin",
+        "custody"
+      ],
+      "h2_headings": [
+        "Take Control of Your Custody Case"
+      ],
+      "section_type": "service",
+      "path": "/forensic-evaluation-consulting"
+    },
+    {
+      "slug": "high-conflict-divorce",
+      "title": "High Conflict Divorce Lawyer in New York City",
+      "original_url": "https://www.mindinlaw.com/high-conflict-divorce",
+      "preview": "High Conflict Divorce in New York City \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce",
+      "keywords": [
+        "divorce",
+        "high",
+        "conflict",
+        "mindin",
+        "child",
+        "family"
+      ],
+      "h2_headings": [
+        "Aggressive Representation for High Conflict Custody and Financial Divorce Cases",
+        "What Is a High-Conflict Divorce?",
+        "High-Conflict Financial Divorce",
+        "Aggressive and Effective Representation in Custody Disputes",
+        "Why Choose Mindin & Mindin, P.C.?"
+      ],
+      "section_type": "service",
+      "path": "/high-conflict-divorce"
+    },
+    {
+      "slug": "interstate-divorce",
+      "title": "Interstate Divorce Attorneys",
+      "original_url": "https://www.mindinlaw.com/interstate-divorce",
+      "preview": "Interstate Divorce \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncon",
+      "keywords": [
+        "divorce",
+        "mindin",
+        "interstate",
+        "child",
+        "family",
+        "attorneys"
+      ],
+      "h2_headings": [
+        "Understanding Interstate Divorce in New York",
+        "Key Challenges in Interstate Divorce Cases",
+        "Why Choose Mindin & Mindin, P.C. for Your Interstate Divorce?"
+      ],
+      "section_type": "service",
+      "path": "/interstate-divorce"
+    },
+    {
+      "slug": "relocation",
+      "title": "Child Custody and Parental Relocation",
+      "original_url": "https://www.mindinlaw.com/relocation",
+      "preview": "Relocation \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested D",
+      "keywords": [
+        "divorce",
+        "child",
+        "relocation",
+        "mindin",
+        "family",
+        "custody"
+      ],
+      "h2_headings": [
+        "Understanding Custody Relocation Laws in New York",
+        "Proven Expertise in High-Stakes Relocation Cases",
+        "Protect Your Rights \u2013 Consult an Experienced Custody Relocation Lawyer Today",
+        "Schedule Your Consultation Today"
+      ],
+      "section_type": "service",
+      "path": "/relocation"
+    },
+    {
+      "slug": "divorce-defense",
+      "title": "Divorce Defense Attorneys in New York",
+      "original_url": "https://www.mindinlaw.com/divorce-defense",
+      "preview": "Divorce Defense \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontes",
+      "keywords": [
+        "divorce",
+        "mindin",
+        "child",
+        "family",
+        "defense",
+        "attorneys"
+      ],
+      "h2_headings": [
+        "Protecting Your Rights, Reputation, and Assets",
+        "What Does It Mean to Defend a Divorce?",
+        "Aggressive Defense Against False Accusations",
+        "Defending Against Inflated Support Claims",
+        "Securing a Fair Distribution of Marital Assets"
+      ],
+      "section_type": "service",
+      "path": "/divorce-defense"
+    },
+    {
+      "slug": "expertise",
+      "title": "Our Expert Services",
+      "original_url": "https://www.mindinlaw.com/expertise",
+      "preview": "Our Services \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested",
+      "keywords": [
+        "divorce",
+        "mindin",
+        "family",
+        "child",
+        "services",
+        "expertise"
+      ],
+      "h2_headings": [
+        "",
+        "At Mindin & Mindin, P.C., we focus our skills on you and your family. The benefit you receive with choosing us to represent you is that you will get top-tier representation, a no-nonsense approach and trial attorneys who will fight for you to secure the best possible outcome for your case."
+      ],
+      "section_type": "service",
+      "path": "/expertise"
+    }
+  ],
+  "about_blurbs": [],
+  "team_blurbs": [
+    "Experienced NYC Divorce & Family Law Attorney | Mindin & Mindin, P.C. \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Home Folder: Expertise Back Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Meet Mindin & Mindin Leon Mindin, Esq. Managing Attorney and Counselor At Law Thanks for taking the time to learn more about me. I have dedicated over a decade to practicing matrimonial and family law in New York City, exclusively representing clients in divorce, child custody, asset division, international parental kidnapping, prenuptial agreements, and other complex family law matters. From straightforward uncontested divorces to high-net-worth litigation involving multi-million dollar estates, I have successfully handled cases of all levels of complexity. With over 700 prenuptial agreements drafted and reviewed, I bring a wealth of experience to marital agreements, ensuring clients protect their financial future. I remain excited by the ever-evolving legal landscape. My passion lies in staying ahead of new legal developments, using my expertise to give my clients a strategic advantage in their cases. I pride myself on being authentic, pragmatic, and solution-oriented. Throughout my career, I have built strong relationships with judges, court referees, magistrates, and opposing counsel, which helps foster smoother negotiations and courtroom proceedings. My ability to identify creati"
+  ],
+  "testimonials": [],
+  "faq_blocks": [],
+  "contact_info": {
+    "text": "Contact Us \u2014 Mindin & Mindin, P.C. 0 Skip to Content Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Mindin & Mindin, P.C. Home Expertise Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us Open Menu Close Menu Home Folder: Expertise Back Our Services Divorce High Conflict Divorce Divorce Defense Interstate Divorce LGBTQ Divorce Uncontested Divorce Prenuptial Agreements Child Custody Relocation Child Support Post-Divorce Modification Order of Protection Family Law for Professional Athletes NYC Family Court Forensic Evaluation Consulting Testimonials Our Attorneys Blog Contact Us CONTACT US Contact The Firm Contact us at 888-501-3292 day or night or send us an e-mail using the contact form on this page. Include your name, e-mail address, a contact phone number and a brief description of your issue so we may better assist you. Law Offices",
+    "url": "https://www.mindinlaw.com/contact"
+  },
+  "blog_posts": [
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/5/3/as-v-ja-why-delay-and-nonperformance-can-defeat-enforcement-of-a-new-york-divorce-stipulation",
+      "title": "A.S. v. J.A.: Why Delay and Nonperformance Can Defeat Enforcement of a New York Divorce Stipulation \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "A.S. v. J.A.: Why Delay and Nonperformance Can Defeat Enforcement of a New York Divorce Stipulation \u2014 Mindin & Mindin, P.C.\n0\nSkip to Content\nMindin & Mindin, P.C.\nHome\nExpertise\nOur Services\nDivorce\nHigh Conflict Divorce\nDivorce Defense\nInterstate Divorce\nLGBTQ Divorce\nUncontested Divorce\nPrenuptial Agreements\nChild Custody\nRelocation\nChild Support\nPost-Divorce Modification\nOrder of Protection\nFa"
+    },
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/4/28/new-york-pet-custody-in-divorce",
+      "title": "New York \u201cPet Custody\u201d in Divorce \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "New York \u201cPet Custody\u201d in Divorce \u2014 Mindin & Mindin, P.C.\n0\nSkip to Content\nMindin & Mindin, P.C.\nHome\nExpertise\nOur Services\nDivorce\nHigh Conflict Divorce\nDivorce Defense\nInterstate Divorce\nLGBTQ Divorce\nUncontested Divorce\nPrenuptial Agreements\nChild Custody\nRelocation\nChild Support\nPost-Divorce Modification\nOrder of Protection\nFamily Law for Professional Athletes\nNYC Family Court\nForensic Evalu"
+    },
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/4/27/in-new-york-custody-who-loves-the-children-more-is-not-the-legal-test",
+      "title": "In New York Custody, \u201cWho Loves the Children More\u201d Is Not the Legal Test \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "In New York Custody, \u201cWho Loves the Children More\u201d Is Not the Legal Test \u2014 Mindin & Mindin, P.C.\n0\nSkip to Content\nMindin & Mindin, P.C.\nHome\nExpertise\nOur Services\nDivorce\nHigh Conflict Divorce\nDivorce Defense\nInterstate Divorce\nLGBTQ Divorce\nUncontested Divorce\nPrenuptial Agreements\nChild Custody\nRelocation\nChild Support\nPost-Divorce Modification\nOrder of Protection\nFamily Law for Professional A"
+    },
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/4/26/zelles-court-order-ban-what-it-means-for-new-york-child-support-and-spousal-support-payments",
+      "title": "Zelle\u2019s Court-Order Ban: What It Means for New York Child Support and Spousal Support Payments \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "Zelle\u2019s Court-Order Ban: What It Means for New York Child Support and Spousal Support Payments \u2014 Mindin & Mindin, P.C.\n0\nSkip to Content\nMindin & Mindin, P.C.\nHome\nExpertise\nOur Services\nDivorce\nHigh Conflict Divorce\nDivorce Defense\nInterstate Divorce\nLGBTQ Divorce\nUncontested Divorce\nPrenuptial Agreements\nChild Custody\nRelocation\nChild Support\nPost-Divorce Modification\nOrder of Protection\nFamily "
+    },
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/4/9/new-york-custody-best-interests-stability-primary-caretaker-and-the-parent-most-likely-to-foster-the-other-parents-relationship",
+      "title": "New York Custody \u201cBest Interests\u201d: Stability, Primary Caretaker, and the Parent Most Likely to Foster the Other Parent\u2019s Relationship \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "New York Custody \u201cBest Interests\u201d: Stability, Primary Caretaker, and the Parent Most Likely to Foster the Other Parent\u2019s Relationship \u2014 Mindin & Mindin, P.C.\n0\nSkip to Content\nMindin & Mindin, P.C.\nHome\nExpertise\nOur Services\nDivorce\nHigh Conflict Divorce\nDivorce Defense\nInterstate Divorce\nLGBTQ Divorce\nUncontested Divorce\nPrenuptial Agreements\nChild Custody\nRelocation\nChild Support\nPost-Divorce M"
+    },
+    {
+      "url": "https://www.mindinlaw.com/blog-1/2026/3/21/when-a-teen-wants-to-come-back-custody-modification-after-relocation-in-new-york-city-divorce-and-family-court-practice",
+      "title": "When a Teen Wants to Come Back: Custody Modification After Relocation in New York City Divorce and Family Court Practice \u2014 Mindin & Mindin, P.C.",
+      "excerpt": "When a Teen Wants to Come Back: Custody Modification After Relocation in New York City Divorce and Family Court Practice \u2014 Mindin & Mindin, P.C.\n0\nSkip to Content\nMindin & Mindin, P.C.\nHome\nExpertise\nOur Services\nDivorce\nHigh Conflict Divorce\nDivorce Defense\nInterstate Divorce\nLGBTQ Divorce\nUncontested Divorce\nPrenuptial Agreements\nChild Custody\nRelocation\nChild Support\nPost-Divorce Modification\nO"
+    }
+  ],
+  "videos": [],
+  "social_links": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/mindinlaw",
+      "page": "/blog-1"
+    },
+    {
+      "platform": "yelp",
+      "url": "http://www.yelp.com/biz/law-offices-of-mindin-and-mindin-p-c-new-york",
+      "page": "/blog-1"
+    },
+    {
+      "platform": "yelp",
+      "url": "https://www.yelp.com/biz/law-offices-of-mindin-and-mindin-p-c-new-york",
+      "page": "/testimonials"
+    }
+  ],
+  "pdfs": [],
+  "misc_pages": [],
+  "coverage_required": [
+    "team",
+    "contact",
+    "testimonials",
+    "service:divorce",
+    "service:lgbtq-divorce",
+    "service:prenuptial-agreements",
+    "service:child-support",
+    "service:order-of-protection",
+    "service:child-custody",
+    "service:uncontested-divorce",
+    "service:family-law-for-professional-athletes",
+    "service:post-divorce-modification",
+    "service:nyc-family-court",
+    "service:forensic-evaluation-consulting",
+    "service:high-conflict-divorce",
+    "service:interstate-divorce",
+    "service:relocation",
+    "service:divorce-defense",
+    "service:expertise"
+  ],
+  "stats": {
+    "services": 16,
+    "testimonials": 0,
+    "blog_posts": 6,
+    "videos": 0,
+    "social_links": 3,
+    "pdfs": 0,
+    "total_scraped_pages": 29,
+    "coverage_items": 19
+  }
+}

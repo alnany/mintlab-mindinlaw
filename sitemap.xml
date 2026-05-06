@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://mintlab-mindinlaw.vercel.app</loc><lastmod>2026-05-05</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://mintlab-mindinlaw.vercel.app#about</loc><lastmod>2026-05-05</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://mintlab-mindinlaw.vercel.app#services</loc><lastmod>2026-05-05</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://mintlab-mindinlaw.vercel.app#testimonials</loc><lastmod>2026-05-05</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://mintlab-mindinlaw.vercel.app#faq</loc><lastmod>2026-05-05</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://mintlab-mindinlaw.vercel.app#contact</loc><lastmod>2026-05-05</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/child-custody/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/child-support/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/divorce-defense/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/divorce/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/family-law-for-professional-athletes/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/forensic-evaluation-consulting/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/high-conflict-divorce/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/interstate-divorce/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/lgbtq-divorce/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/nyc-family-court/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/order-of-protection/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/post-divorce-modification/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/prenuptial/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/relocation/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/services/uncontested-divorce/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/blog/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/blog/navigating-the-complexities-of-child-custody-in-new-york-city-courts/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/blog/nyc-employment-discrimination-harrassment-lawyer/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/team/leon-mindin/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/case-results/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/case-results/uncontested-divorce-from-jason-barbara/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/case-results/uncontested-divorce-from-yaniv-associates/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/contact/</loc></url>
+<url><loc>https://mintlab-mindinlaw.vercel.app/testimonials/</loc></url>
 </urlset>
